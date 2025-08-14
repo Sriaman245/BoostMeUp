@@ -103,7 +103,7 @@ transition={Bounce}
             <Script src="https://checkout.razorpay.com/v1/checkout.js"></Script>
 
             <div className='cover w-full  relative'>
-                <img className='object-cover w-full h-[300]' src="https://c10.patreonusercontent.com/4/patreon-media/p/campaign/4842667/452146dcfeb04f38853368f554aadde1/eyJ3IjoxOTIwLCJ3ZSI6MX0%3D/18.gif?token-time=1743724800&token-hash=3jRRjnWnIycOk6k6K03qY-fepaDiVq5PShRw7Y2mnLQ%3D" alt="" />
+                <img className='object-cover w-full h-[300]' src="https://c10.patreonusercontent.com/4/patreon-media…OewYUV9XEUA5-WZclJDhOr1c%3D&token-time=1756944000" alt="" />
                 <div className=' absolute -bottom-17 border-2 rounded-full border-white md:right-[46%] right-[36%]'>
                     <img className=' rounded-full size-28 width={128} height={128}' src={currentUser.profilepic} alt="" />
                 </div>
