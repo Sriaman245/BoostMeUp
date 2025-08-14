@@ -103,9 +103,9 @@ transition={Bounce}
             <Script src="https://checkout.razorpay.com/v1/checkout.js"></Script>
 
             <div className='cover w-full  relative'>
-                <img className='object-cover w-full h-[300]' src="https://c10.patreonusercontent.com/4/patreon-media…OewYUV9XEUA5-WZclJDhOr1c%3D&token-time=1756944000" alt="" />
+                <img className='object-cover w-full h-[300]' src="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg" alt="" />
                 <div className=' absolute -bottom-17 border-2 rounded-full border-white md:right-[46%] right-[36%]'>
-                    <img className=' rounded-full size-28 width={128} height={128}' src={currentUser.profilepic} alt="" />
+                    <img className=' rounded-full size-28 width={128} height={128}' src="https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2FyfGVufDB8fDB8fHww"alt="" />
                 </div>
             </div>
             <div className='text-white flex flex-col justify-center items-center my-20'>
